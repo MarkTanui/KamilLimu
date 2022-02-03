@@ -3,6 +3,7 @@ GIT AND GITHUB 101
 
 ### Git
 
+![Git](index.png)
 > __Git__ is a version control system (VCS). Originally written __by Linus Torvalds__, also the original developer
 of the Linux Kernel. _kanol or kenel?_
 >
